@@ -4,8 +4,10 @@
 	align-items:center;
 }
 
-.img{
-	
+img{
+	width:500px; 
+	height:350px;
+	object-fit:cover;
 }
 
 .para{
